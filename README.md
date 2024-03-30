@@ -1,4 +1,7 @@
+### NAME : VARNIKA.P
+### REG. NO.: 212223240170
 # Correlation and regression for data analysis
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
