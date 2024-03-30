@@ -1,6 +1,6 @@
 ### NAME : VARNIKA.P
 ### REG. NO.: 212223240170
-# Correlation and regression for data analysis
+# EX:3 Correlation and regression for data analysis
 
 # Aim : 
 
